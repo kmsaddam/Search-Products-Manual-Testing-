@@ -1,0 +1,35 @@
+{
+	"info": {
+		"_postman_id": "2b67f417-30e2-4543-80dd-7370d845f838",
+		"name": "Evershop Store",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "50640856",
+		"_collection_link": "https://dev-saddam-6851948.postman.co/workspace/K-M-Saddam-Hossain's-Workspace~fd7f8b53-ca70-4f6a-87d4-961c56a44948/collection/50640856-2b67f417-30e2-4543-80dd-7370d845f838?action=share&source=collection_link&creator=50640856"
+	},
+	"item": [
+		{
+			"name": "Product Search",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Product Details",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Add Product",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
